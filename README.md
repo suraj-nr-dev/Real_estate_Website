@@ -7,7 +7,6 @@ A clean React/Vite conversion of the supplied KBHECS Webflow export.
 - React 18
 - Vite
 - React Router
-- Lucide React
 - Plain CSS (no Tailwind)
 
 ## Why plain CSS?
